@@ -1,0 +1,12 @@
+2025-12-12 15:13:16,434 | INFO | Automation script started
+2025-12-12 15:13:16,434 | INFO | Scheduler set for daily run at 1 PM
+2025-12-12 15:16:53,816 | INFO | Automation script started
+2025-12-12 15:16:53,816 | INFO | Scheduler set for daily run at 3:18 PM
+2025-12-12 15:18:23,818 | INFO | Starting job search...
+2025-12-12 15:18:31,215 | INFO | 10 jobs found for query 'entry level data analyst jobs' with filter 'ALL'
+2025-12-12 15:18:36,737 | INFO | 0 jobs found for query 'startup data analyst jobs' with filter 'ALL'
+2025-12-12 15:18:39,852 | INFO | 0 jobs found for query 'data analyst jobs' with filter 'Remote'
+2025-12-12 15:18:41,401 | INFO | 0 jobs found for query 'data analyst jobs' with filter 'India'
+2025-12-12 15:18:41,456 | INFO | CSV saved: jobs_2025-12-12.csv
+2025-12-12 15:18:43,842 | ERROR | Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f4c4ab4984sm4731662b3a.33 - gsmtp')
+2025-12-12 15:18:43,843 | INFO | Job search completed successfully.
